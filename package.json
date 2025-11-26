@@ -1,0 +1,30 @@
+{
+  "name": "arun-mathur-portfolio",
+  "version": "1.0.0",
+  "description": "Professional portfolio website built with React",
+  "scripts": {
+    "start": "cd client && npm start",
+    "build": "cd client && npm run build",
+    "install": "cd client && npm install"
+  },
+  "keywords": [
+    "portfolio",
+    "react",
+    "frontend",
+    "web-developer"
+  ],
+  "author": {
+    "name": "Arun Mathur",
+    "email": "mathurarun102@gmail.com",
+    "url": "https://github.com/Arunmathur01"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Arunmathur01/portfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Arunmathur01/portfolio/issues"
+  },
+  "homepage": "https://github.com/Arunmathur01/portfolio#readme"
+}
